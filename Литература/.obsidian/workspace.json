@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "83be0bb782efd65f",
+        "id": "3fb9ba154136bda0",
         "type": "tabs",
         "children": [
           {
-            "id": "eb209b0941c4989f",
+            "id": "b8dfeb9342a57074",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#LTL",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 316.5
   },
   "right": {
     "id": "f0ea90f09d965716",
@@ -155,10 +155,11 @@
       "audio-recorder:Начать/остановить запись": false
     }
   },
-  "active": "eb209b0941c4989f",
+  "active": "b8dfeb9342a57074",
   "lastOpenFiles": [
-    "_templates/Шаблон.Книга.md",
+    "_resources/2023-07-06.md",
     "Верификация автоматных программ.md",
+    "_templates/Шаблон.Книга.md",
     "_resources/Без названия 3.md",
     "_resources/Без названия 2.md",
     "_resources/Без названия 1.md",

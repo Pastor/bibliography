@@ -8,22 +8,15 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#АПСУ",
+      "query": "tag:#LTL",
       "color": {
         "a": 1,
         "rgb": 14048348
       }
-    },
-    {
-      "query": "tag:#LTL",
-      "color": {
-        "a": 1,
-        "rgb": 14069084
-      }
     }
   ],
   "collapse-display": true,
-  "showArrow": false,
+  "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
@@ -32,6 +25,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7514342322277604,
+  "scale": 1.4769860980686584,
   "close": false
 }
