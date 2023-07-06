@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Статьи/Автоматическая генерация автоматного кода.md",
+                "file": "Книги/Верификация автоматных программ.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Статьи/Автоматическая генерация автоматного кода.md",
+                "file": "Книги/Верификация автоматных программ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Статьи/Автоматическая генерация автоматного кода.md",
+                "file": "Книги/Верификация автоматных программ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Статьи/Автоматическая генерация автоматного кода.md"
+                "file": "Книги/Верификация автоматных программ.md"
               }
             }
           },
@@ -157,8 +157,9 @@
   },
   "active": "35e79f1048490835",
   "lastOpenFiles": [
-    "_resources/life_app.pdf",
     "Статьи/Автоматическая генерация автоматного кода.md",
+    "Книги/Верификация автоматных программ.md",
+    "_resources/life_app.pdf",
     "_resources/metaAuto.pdf",
     "_resources/switch_1.pdf",
     "_resources/Unconfirmed 65183.crdownload",
@@ -171,7 +172,6 @@
     "_resources/Unconfirmed 373915.crdownload",
     "_resources/[.md",
     "_templates/Шаблон.Книга.md",
-    "Книги/Верификация автоматных программ.md",
     "_resources/2023-07-06.md",
     "_resources/Без названия 3.md",
     "_resources/Без названия 2.md",
