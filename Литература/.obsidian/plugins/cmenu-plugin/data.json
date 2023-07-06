@@ -32,11 +32,6 @@
       "icon": "go-to-file"
     },
     {
-      "id": "cmenu-plugin:editor:insert-wikilink",
-      "name": "cMenu: Add internal link",
-      "icon": "bracket-glyph"
-    },
-    {
       "id": "obsidian-git:push",
       "name": "Obsidian Git: Create backup",
       "icon": "merge-files"

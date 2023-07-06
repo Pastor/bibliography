@@ -1,5 +1,5 @@
 {
-  "newFileLocation": "folder",
+  "newFileLocation": "root",
   "newFileFolderPath": "_resources",
   "showLineNumber": true,
   "pdfExportSettings": {
@@ -8,5 +8,7 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./_resources"
 }
