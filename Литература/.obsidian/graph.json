@@ -8,10 +8,17 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#LTL",
+      "query": "tag:#Статья",
       "color": {
         "a": 1,
         "rgb": 14048348
+      }
+    },
+    {
+      "query": "tag:#Книга",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
       }
     }
   ],
@@ -25,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.4769860980686584,
+  "scale": 1.4769860980686615,
   "close": false
 }

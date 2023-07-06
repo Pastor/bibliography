@@ -1,7 +1,7 @@
 {
   "commitMessage": "Изменения за {{date}}. Всего изменено {{numFiles}}. Машина '{{hostname}}'.",
   "commitDateFormat": "DD-MM-YYYY HH:mm:ss",
-  "autoSaveInterval": 30,
+  "autoSaveInterval": 60,
   "autoPushInterval": 0,
   "autoPullInterval": 0,
   "autoPullOnBoot": false,

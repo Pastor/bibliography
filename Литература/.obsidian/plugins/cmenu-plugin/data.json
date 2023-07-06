@@ -2,16 +2,6 @@
   "aestheticStyle": "default",
   "menuCommands": [
     {
-      "id": "cmenu-plugin:editor:toggle-strikethrough",
-      "name": "cMenu: Toggle strikethrough",
-      "icon": "strikethrough-glyph"
-    },
-    {
-      "id": "cmenu-plugin:underline",
-      "name": "cMenu: Toggle underline",
-      "icon": "underline-glyph"
-    },
-    {
       "id": "cmenu-plugin:superscript",
       "name": "cMenu: Toggle superscript",
       "icon": "superscript-glyph"
@@ -50,6 +40,24 @@
       "id": "obsidian-git:push",
       "name": "Obsidian Git: Create backup",
       "icon": "merge-files"
+    },
+    {
+      "id": "editor:insert-wikilink",
+      "name": "Добавить внутреннюю ссылку",
+      "icon": "bracket-glyph"
+    },
+    {
+      "id": "editor:insert-link",
+      "name": "Вставить ссылку",
+      "icon": "lucide-link",
+      "hotkeys": [
+        {
+          "modifiers": [
+            "Mod"
+          ],
+          "key": "K"
+        }
+      ]
     }
   ],
   "appendMethod": "workspace",
