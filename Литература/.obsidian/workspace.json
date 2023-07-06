@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "25e0d10d573a292d",
+    "type": "split",
+    "children": [
+      {
+        "id": "83be0bb782efd65f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb209b0941c4989f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Верификация автоматных программ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c538b09573840253",
+    "type": "split",
+    "children": [
+      {
+        "id": "41d29b83ee7ac3d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b8eac4ce947caa6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "92084cb2ab263233",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "85b3ab65a08246f3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f0ea90f09d965716",
+    "type": "split",
+    "children": [
+      {
+        "id": "a51de1a0f5c4ca05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59fd1bd60e9cd7ea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Верификация автоматных программ.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3c42e244b97b9d9d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Верификация автоматных программ.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "091d0b9441fab460",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "70ed52f095849feb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Верификация автоматных программ.md"
+              }
+            }
+          },
+          {
+            "id": "d3d4e7fe93faa0e9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "audio-recorder:Начать/остановить запись": false
+    }
+  },
+  "active": "eb209b0941c4989f",
+  "lastOpenFiles": [
+    "_templates/Шаблон.Книга.md",
+    "Верификация автоматных программ.md",
+    "_resources/Без названия 3.md",
+    "_resources/Без названия 2.md",
+    "_resources/Без названия 1.md",
+    "_templates",
+    "_resources"
+  ]
+}
