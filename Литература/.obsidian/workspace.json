@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "77eb53f5a5a82891",
+        "id": "8270d8d060c5e47f",
         "type": "tabs",
         "children": [
           {
-            "id": "c3d53aaef34cb7d4",
+            "id": "35e79f1048490835",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -155,8 +155,10 @@
       "audio-recorder:Начать/остановить запись": false
     }
   },
-  "active": "c3d53aaef34cb7d4",
+  "active": "35e79f1048490835",
   "lastOpenFiles": [
+    "Статьи/Автоматическая генерация автоматного кода.md",
+    "_templates/Шаблон.Статья.md",
     "_resources/metaAuto_src.rar",
     "_resources/Unconfirmed 327883.crdownload",
     "_resources/metaAuto.pdf",
@@ -165,11 +167,8 @@
     "_resources/Unconfirmed 421017.crdownload",
     "_resources/life_app_src.zip",
     "_resources/Unconfirmed 373915.crdownload",
-    "_templates/Шаблон.Статья.md",
-    "Статьи/Автоматическая генерация автоматного кода.md",
     "_resources/phone.pdf",
     "_resources/Unconfirmed 184474.crdownload",
-    "_resources/phone_src.zip",
     "_resources/[.md",
     "_templates/Шаблон.Книга.md",
     "Книги/Верификация автоматных программ.md",
