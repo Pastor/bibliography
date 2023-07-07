@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8270d8d060c5e47f",
+        "id": "9c28f27ac23b7823",
         "type": "tabs",
         "children": [
           {
-            "id": "35e79f1048490835",
+            "id": "f951d73690d06bd0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Книги/Верификация автоматных программ.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Книги/Верификация автоматных программ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Книги/Верификация автоматных программ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Книги/Верификация автоматных программ.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,10 +147,11 @@
       "audio-recorder:Начать/остановить запись": false
     }
   },
-  "active": "35e79f1048490835",
+  "active": "f951d73690d06bd0",
   "lastOpenFiles": [
-    "Статьи/Автоматическая генерация автоматного кода.md",
     "Книги/Верификация автоматных программ.md",
+    "Статьи/Автоматическая генерация автоматного кода.md",
+    "Без названия.canvas",
     "_resources/life_app.pdf",
     "_resources/metaAuto.pdf",
     "_resources/switch_1.pdf",
