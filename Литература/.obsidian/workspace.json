@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "eec8fcfdecece167",
+        "id": "117b2e16126d25d5",
         "type": "tabs",
         "children": [
           {
-            "id": "205ba84cccc7c799",
+            "id": "d5fc27a990e9be35",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Статьи/Автоматическая генерация автоматного кода.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Статьи/Автоматическая генерация автоматного кода.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Статьи/Автоматическая генерация автоматного кода.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Статьи/Автоматическая генерация автоматного кода.md"
+              }
             }
           },
           {
@@ -147,8 +155,10 @@
       "audio-recorder:Начать/остановить запись": false
     }
   },
-  "active": "205ba84cccc7c799",
+  "active": "d5fc27a990e9be35",
   "lastOpenFiles": [
+    "_resources/Статьи/ebnf.pdf",
+    "_resources/Статьи/Unconfirmed 477475.crdownload",
     "_templates/Шаблон.Статья.md",
     "_templates/Шаблон.Диссертация.md",
     "_templates/Шаблон.Книга.md",
@@ -167,7 +177,6 @@
     "_resources/Книги/Новый метод вычисления булевых формул.pdf",
     "_resources/Книги/Моделирование кнопочного телефона с использованием SWITCH-технологии.pdf",
     "_resources/Статьи/Методы объектно-ориентированной реализации реактивных агентов на основе конечных автоматов.pdf",
-    "_resources/Книги/Метод устранения повторных фрагментов кода при реализации конечных автоматов.pdf",
     "Без названия.canvas",
     "_resources/[.md",
     "_resources/2023-07-06.md",
