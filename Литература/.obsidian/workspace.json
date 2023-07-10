@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "799a3b140420cb29",
+        "id": "cd30f1768a55ddcd",
         "type": "tabs",
         "children": [
           {
-            "id": "5495fb587e9b05bd",
+            "id": "1bdd6cd5ebe0cbd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Моё/_BuT.LTL.md",
+                "file": "Моё/_But.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Моё/_BuT.LTL.md",
+                "file": "Моё/_But.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Моё/_BuT.LTL.md",
+                "file": "Моё/_But.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Моё/_BuT.LTL.md"
+                "file": "Моё/_But.md"
               }
             }
           },
@@ -155,20 +155,21 @@
       "audio-recorder:Начать/остановить запись": false
     }
   },
-  "active": "5495fb587e9b05bd",
+  "active": "1bdd6cd5ebe0cbd7",
   "lastOpenFiles": [
-    "Документация/SPIN.LTL.md",
+    "Моё/_But.md",
     "Моё/_BuT.LTL.md",
+    "_resources/Моё/LTL.Grammar.USER_DEFINED_NAME.PNG",
+    "_resources/Моё/LTL.Grammar.FULL.PNG",
     "_resources/Моё/LTL.Grammar.FACTOR.PNG",
+    "_resources/Моё/LTL.Grammar.EXPRESSION.PNG",
+    "_resources/Моё/LTL.Grammar.DIGIT.PNG",
+    "_resources/Моё/LTL.Grammar.BINOP.PNG",
     "_resources/Моё/LTL.Grammar.ADDITION.PNG",
+    "Документация/SPIN.LTL.md",
     "_resources/Моё/LTL.Grammar.TERM.PNG",
     "_resources/Моё/LTL.Grammar.RELATION.PNG",
     "_resources/Моё/LTL.Grammar.CONJUNCTION.PNG",
-    "_resources/Моё/LTL.Grammar.EXPRESSION.PNG",
-    "_resources/Моё/LTL.Grammar.LETTER.PNG",
-    "_resources/Моё/LTL.Grammar.NUMBER.PNG",
-    "_resources/Моё/LTL.Grammar.NAT_NUMBER.PNG",
-    "_resources/Моё/LTL.Grammar.DIGIT.PNG",
     "_resources/Моё",
     "Моё/Без названия",
     "Моё",
