@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "acdb2b9d68f11f95",
+        "id": "799a3b140420cb29",
         "type": "tabs",
         "children": [
           {
-            "id": "7ec304e91118031e",
+            "id": "5495fb587e9b05bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Моё/_BuT.LTL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed83c784e9b7e238",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Документация/SPIN.LTL.md",
                 "mode": "source",
                 "source": false
               }
@@ -167,8 +155,10 @@
       "audio-recorder:Начать/остановить запись": false
     }
   },
-  "active": "7ec304e91118031e",
+  "active": "5495fb587e9b05bd",
   "lastOpenFiles": [
+    "Документация/SPIN.LTL.md",
+    "Моё/_BuT.LTL.md",
     "_resources/Моё/LTL.Grammar.FACTOR.PNG",
     "_resources/Моё/LTL.Grammar.ADDITION.PNG",
     "_resources/Моё/LTL.Grammar.TERM.PNG",
@@ -179,10 +169,7 @@
     "_resources/Моё/LTL.Grammar.NUMBER.PNG",
     "_resources/Моё/LTL.Grammar.NAT_NUMBER.PNG",
     "_resources/Моё/LTL.Grammar.DIGIT.PNG",
-    "_resources/Моё/LTL.Grammar.USER_DEFINED_NAME.PNG",
     "_resources/Моё",
-    "Документация/SPIN.LTL.md",
-    "Моё/_BuT.LTL.md",
     "Моё/Без названия",
     "Моё",
     "Документация/Преобразование графов переходов, представленных в формате MS Visio, в исходные коды программ для различных языков программирования.md",
