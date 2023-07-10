@@ -45,27 +45,39 @@ operand = "true" | "false" | expression;
 ```ebnf
 unop = "[]" | "<>" | "!";
 ```
+
+![[LTL.Grammar.UNOP.PNG]]
 #### Бинарные операции
 ```ebnf
 binop = "U" | "W" | "V" | "&&" | "||" | "->" | "<->";
 ```
-#### Пользователем определенные термы
+
+![[LTL.Grammar.BINOP.PNG]]
+#### Пользовательские переменные
 ```ebnf
 user_defined_name = letter, { letter | digit | "_" };
 ```
 
+![[LTL.Grammar.USER_DEFINED_NAME.PNG]]
+#### Цифры
 ```ebnf
 digit = "0" | "1" | "2" | "3" | "4" | "5" | "6" | "7" | "8" | "9";
 ```
 
+![[LTL.Grammar.DIGIT.PNG]]
+#### Натуральные числа
 ```ebnf
 nat_number = digit, { digit };
 ```
 
+![[LTL.Grammar.NAT_NUMBER.PNG]]
+#### Числа
 ```ebnf
 number = ["+" | "-"], nat_number, [ ".", nat_number ];
 ```
 
+![[LTL.Grammar.NUMBER.PNG]]
+#### Буквы
 ```ebnf
 letter = "A" | "B" | "C" | "D" | "E" | "F" | "G"
        | "H" | "I" | "J" | "K" | "L" | "M" | "N"
@@ -77,26 +89,40 @@ letter = "A" | "B" | "C" | "D" | "E" | "F" | "G"
        | "x" | "y" | "z" ;
 ```
 
+![[LTL.Grammar.LETTER.PNG]]
+#### Выражение
 ```ebnf
 expression = conjunction, { "||", conjunction };
 ```
 
+![[LTL.Grammar.EXPRESSION.PNG]]
+#### Коньюнкция
 ```ebnf
 conjunction = relation, { "&&", relation };
 ```
 
+![[LTL.Grammar.CONJUNCTION.PNG]]
+#### Дизьюнкция
 ```ebnf
 relation = addition, { ("<" | "<=" | ">" | ">=" | "==" | "!="), addition };
 ```
 
+![[LTL.Grammar.RELATION.PNG]]
+#### Сложение и вычитание
 ```ebnf
 addition = term, { ("+" | "-"), term };
 ```
 
+![[LTL.Grammar.ADDITION.PNG]]
+#### Умножение и деление
 ```ebnf
 term = factor, { ("*" | "/"), factor };
 ```
 
+![[LTL.Grammar.TERM.PNG]]
+#### Компоненты операций
 ```ebnf
 factor = user_definited_name | number | "(", expression, ")";
 ```
+
+![[LTL.Grammar.FACTOR.PNG]]
