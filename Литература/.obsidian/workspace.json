@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Моё/_Язык BuT.md",
+                "file": "Моё/_BuT.LTL.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Моё/_Язык BuT.md",
+                "file": "Моё/_BuT.LTL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Моё/_Язык BuT.md",
+                "file": "Моё/_BuT.LTL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Моё/_Язык BuT.md"
+                "file": "Моё/_BuT.LTL.md"
               }
             }
           },
@@ -167,7 +167,7 @@
       "audio-recorder:Начать/остановить запись": false
     }
   },
-  "active": "1b8eac4ce947caa6",
+  "active": "7ec304e91118031e",
   "lastOpenFiles": [
     "_resources/Моё/LTL.Grammar.FACTOR.PNG",
     "_resources/Моё/LTL.Grammar.ADDITION.PNG",
@@ -182,7 +182,7 @@
     "_resources/Моё/LTL.Grammar.USER_DEFINED_NAME.PNG",
     "_resources/Моё",
     "Документация/SPIN.LTL.md",
-    "Моё/_Язык BuT.md",
+    "Моё/_BuT.LTL.md",
     "Моё/Без названия",
     "Моё",
     "Документация/Преобразование графов переходов, представленных в формате MS Visio, в исходные коды программ для различных языков программирования.md",
