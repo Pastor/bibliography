@@ -2,7 +2,7 @@
 
 | Наименование | Автор | Издание | Год | Ресурс |
 |------|:---------|:-----------|:---------|:----------|
-|Guide for the use of the Ada Ravenscar Profile in high integrity systems|Tullio Varganega|Университет Padova| 2003 |[[?]]|
+|Guide for the use of the Ada Ravenscar Profile in high integrity systems|Tullio Varganega|Падуанский университет| 2003 |[[?]]|
 #Работа [[Ada.GuideUseRavenscar.pdf|PDF]]
 
 #Литература 
