@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "7b0b39ed65983a0c",
+        "id": "c7f8880a405ca1bf",
         "type": "tabs",
         "children": [
           {
-            "id": "1458a0450b433835",
+            "id": "91f6ea4ad987d7dd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Книги/Введение в разработку встраиваемых систем.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Книги/Введение в разработку встраиваемых систем.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Книги/Введение в разработку встраиваемых систем.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Книги/Введение в разработку встраиваемых систем.md"
+              }
             }
           },
           {
@@ -148,11 +156,13 @@
       "audio-recorder:Начать/остановить запись": false
     }
   },
-  "active": "1458a0450b433835",
+  "active": "91f6ea4ad987d7dd",
   "lastOpenFiles": [
+    "Книги/Введение в разработку встраиваемых систем.md",
+    "_resources/Книги/intro-to-embedded-sys-prog.pdf",
     "Статьи/В моем языке есть маленькая RTOS.md",
-    "Статьи/Автоматическая генерация автоматного кода.md",
     "Статьи/Руководство по использованию профиля Ravenscar для языка Ада в системах повышенной надежности.md",
+    "Статьи/Автоматическая генерация автоматного кода.md",
     "Книги/Верификация автоматных программ.md",
     "Книги/Автоматический синтаксический анализ.md",
     "Моё/_BuT.LTL.md",
@@ -183,7 +193,6 @@
     "_templates/Шаблон.Диссертация.md",
     "_templates/Шаблон.Книга.md",
     "В работе",
-    "_resources/Книги/Преобразование графов переходов, представленных в формате MS Visio, в исходные коды программ для различных языков программирования.pdf",
     "Без названия.canvas",
     "_resources/[.md",
     "_resources/2023-07-06.md",

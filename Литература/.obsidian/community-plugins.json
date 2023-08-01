@@ -2,5 +2,6 @@
   "cmenu-plugin",
   "calendar",
   "quick-latex",
-  "obsidian-git"
+  "obsidian-git",
+  "cm-editor-syntax-highlight-obsidian"
 ]
